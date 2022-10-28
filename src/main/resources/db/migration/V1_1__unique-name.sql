@@ -1,0 +1,1 @@
+ALTER TABLE heroes ADD CONSTRAINT unique_name UNIQUE(name);
