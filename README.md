@@ -3,7 +3,7 @@
 A sample spring-boot application that shows off `spring-data-jpa` capabilities. It also shows an example of integration with `flyway` DB migrations.
 
 ### Building
-
+   
 JDK 11 is required to run: 
 
 ```
