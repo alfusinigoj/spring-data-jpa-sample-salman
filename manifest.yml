@@ -7,6 +7,6 @@ applications:
     buildpacks:
       - java_buildpack_offline
     services:
-      - heroes-db 
+      - heroes-db  
     env:
       JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+}}'    
